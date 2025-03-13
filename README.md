@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on elasmobranchs spatial and trophic ecology.
+- 🔭 I’m currently working on elasmobranchs spatial and trophic ecology
 - 🌱 I’m currently learning how to learn.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
