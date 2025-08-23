@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on elasmobranchs spatial and trophic ecology.
+Spying on elasmobranchs to learn about their behaviors and ecology.
 <!--
 **BenMarsaly/BenMarsaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
