@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Spying on elasmobranchs to learn about their behavior and ecology.
+Spying on elasmobranchs to learn about their elusive behavior and ecology 🔎🦈
 <!--
 **BenMarsaly/BenMarsaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
